@@ -1,11 +1,11 @@
-# 🌐 Monitor de Red
+#  Monitor de Red
 
 Herramienta de monitoreo y diagnóstico de red para terminal Linux.
 Menú interactivo con 17 opciones. Hecha en **Python · Bash · Linux**.
 
 ---
 
-## 📋 Tabla de contenidos
+## Tabla de contenidos
 
 1. [¿Qué hace este programa?](#qué-hace-este-programa)
 2. [Requisitos](#requisitos)
@@ -119,7 +119,7 @@ sudo python3 monitor_red.py
 
 ---
 
-### 🔵 DIAGNÓSTICO
+### DIAGNÓSTICO
 
 ---
 
@@ -265,7 +265,7 @@ sudo apt install whois
 
 ---
 
-### 🟡 ANÁLISIS Y MONITOREO
+### ANÁLISIS Y MONITOREO
 
 ---
 
@@ -293,7 +293,7 @@ Puertos importantes:
 3389 → RDP (escritorio remoto Windows)
 ```
 
-> ⚠️ Solo escanea equipos que son tuyos o para los que tienes permiso.
+>  Solo escanea equipos que son tuyos o para los que tienes permiso.
 
 ---
 
@@ -408,7 +408,7 @@ sudo apt install network-manager
 
 ---
 
-### ⚙️ SISTEMA
+### SISTEMA
 
 ---
 
