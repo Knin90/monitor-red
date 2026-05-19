@@ -482,5 +482,3 @@ monitor-red/
 
 ---
 
-
-*Proyecto desarrollado en Python · Bash · Linux*
