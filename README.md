@@ -23,7 +23,7 @@ Menú interactivo con 17 opciones. Hecha en **Python · Bash · Linux**.
 Un menú en la terminal con 17 herramientas de red organizadas en tres grupos:
 
 <img src="imagenes/menu.png" alt="menu" width="500">
----
+
 
 ## Requisitos
 
