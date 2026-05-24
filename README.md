@@ -22,18 +22,7 @@ Menú interactivo con 17 opciones. Hecha en **Python · Bash · Linux**.
 
 Un menú en la terminal con 17 herramientas de red organizadas en tres grupos:
 
-```
--- DIAGNÓSTICO --          -- ANÁLISIS Y MONITOREO --     -- SISTEMA --
- 1) Interfaces de red       8) Escaneo de puertos         16) Dependencias
- 2) IP local y pública      9) Conexiones activas         17) Logs guardados
- 3) Ping                   10) Tabla ARP
- 4) Ping continuo          11) Escaneo de red local
- 5) Traceroute             12) Test de velocidad
- 6) DNS lookup             13) Estadísticas de tráfico
- 7) WHOIS                  14) Monitoreo de latencia
-                           15) Información de WiFi
-```
-
+<img src="imagenes/menu.png" alt="menu" width="500">
 ---
 
 ## Requisitos
@@ -293,7 +282,6 @@ Puertos importantes:
 3389 → RDP (escritorio remoto Windows)
 ```
 
->  Solo escanea equipos que son tuyos o para los que tienes permiso.
 
 ---
 
@@ -335,7 +323,6 @@ Cuándo usarla: para ver todos los dispositivos conectados a tu red
 (computadores, teléfonos, impresoras, smart TVs, etc.)
 ```
 
-> Puede tardar ~30 segundos. Funciona mejor con `sudo`.
 
 ---
 
@@ -463,8 +450,6 @@ PING google.com (142.250.x.x) 56 bytes of data.
   [OK] El host responde correctamente.
 ```
 
-> Los archivos de log **no se suben a GitHub**. La carpeta `logs/`
-> está en el `.gitignore` del proyecto.
 
 ---
 
